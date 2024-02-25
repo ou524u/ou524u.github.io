@@ -36,8 +36,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Course
+          tag: Course
         - name: Other
           tag: Demo
     design:
