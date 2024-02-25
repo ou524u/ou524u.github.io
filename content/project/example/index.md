@@ -1,6 +1,6 @@
 ---
 title: Visual Computing labs
-summary: course labs of pku-vcl 2023
+summary: Various labs covering basics in computer graphics from geometry, rendering to simulation. A project of pku-course “Visual Computing and Learning”.
 tags:
   - Course
 date: '2023-10-27T00:00:00Z'
