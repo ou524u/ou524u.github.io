@@ -23,7 +23,7 @@ organizations:
     url: https://eecs.pku.edu.cn/
     
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3d vision, human-motion and physics-based simulation in computer graphics
+bio: My research interests include 3d vision, 3d-human-motion and physics-based simulation in computer graphics
 
 # Interests to show in About widget
 interests:
