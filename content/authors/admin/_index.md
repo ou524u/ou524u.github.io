@@ -1,16 +1,15 @@
 ---
 # Display name
-title: 王浩如
+title: Haoru Wang
 
-# Name pronunciation (optional)
-name_pronunciation: Haoru Wang
+
 # Full name (for SEO)
 first_name: Haoru
 last_name: Wang
 
 # Status emoji
 status:
-  icon: 😄
+  icon: 🎼
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +50,7 @@ skills:
         icon_pack: fab
       - name: c&cpp
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: cuda
@@ -65,7 +64,7 @@ skills:
     items:
       - name: Accordion
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -86,7 +85,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ou524u@gmail.com'
+    link: 'mailto:ou524u@gmail.com'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -113,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I'm a 3rd-year undergraduate in School of EECS, Peking University. 
+I'm a 3rd-year undergraduate in School of EECS, Peking University. I love physics and music.
 {style="text-align: justify;"}
