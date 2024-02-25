@@ -1,5 +1,5 @@
 ---
-title: My Caffe-like CNN project
+title: My Caffe-like framework
 summary: Utilizing cuda, pybind11, cmake and python to inplement kernels and autodiff capabilities for AlexNet.
 tags:
   - Course
