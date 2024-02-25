@@ -56,6 +56,6 @@ Lab 3 focused on rendering techniques, covering various lighting and shading alg
 
 Lab 4 centered around animation generation with a focus on inverse kinematics and mass-spring systems:
 1. Inverse Kinematics Algorithm for realistic motion planning.
-2. Mass-Spring System Algorithm for simulating deformable objects. Implicit Euler and Fast simulation of Mass-spring systems(Liu et al. 2013)
+2. Mass-Spring System Algorithm for simulating deformable objects. Explicit&Implicit Euler methods, and Fast simulation of Mass-spring systems(Liu et al. 2013) were inplemented.
 
 Lab 5 concluded with visualization tasks, covering parallel coordinates for multidimensional data and the LIC algorithm for 2D flow field visualization:
