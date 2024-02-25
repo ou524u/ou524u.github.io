@@ -24,7 +24,7 @@ url_video: ''
 ---
 VCL labs@PKU covered a diverse range of algorithms and techniques in computer graphics, computer vision, and geometric processing. A brief overview of the implemented algorithms as follows:
 
-![lab1](lab1)
+![lab1.png](lab1)
 In Lab 1, the focus was on image processing, drawing, and anti-aliasing. The following algorithms were implemented:
 1. Dithering Algorithm for image processing.
 2. Image Filter Algorithm for enhancing or modifying images.
@@ -34,17 +34,17 @@ In Lab 1, the focus was on image processing, drawing, and anti-aliasing. The fol
 6. Supersampling Algorithm for anti-aliasing in drawing.
 7. de Casteljau Algorithm for curve manipulation.
 
-![lab2](lab2)
+![lab2.png](lab2)
 Lab 2 delved into geometric processing, introducing algorithms for mesh subdivision, parameterization, simplification, smoothing, and 3D reconstruction:
 1. Loop Mesh Subdivision Algorithm for refining meshes.
 2. Spring-Mass Mesh Parameterization Algorithm for mapping textures onto meshes.
-![lab2-2](lab2-2)
+![lab2-2.png](lab2-2)
 3. Mesh Simplification Algorithm for reducing mesh complexity.
 4. Mesh Smoothing Algorithm for improving mesh aesthetics.
-![lab2-3](lab2-3)
+![lab2-3.png](lab2-3)
 5. Marching Cubes Algorithm for reconstructing 3D surfaces.
 
-![lab3](lab3)
+![lab3.png](lab3)
 Lab 3 focused on rendering techniques, covering various lighting and shading algorithms, texture mapping, and global illumination:
 1. Phong/Blinn-Phong Lighting Models for realistic lighting.
 2. Environment Mapping Technique for reflective surfaces.
@@ -52,10 +52,10 @@ Lab 3 focused on rendering techniques, covering various lighting and shading alg
 4. Shadow Mapping Technique for realistic shadows.
 5. Ray Tracing Offline Rendering Framework for global illumination.
 
-![lab4](lab4)
+![lab4.png](lab4)
 Lab 4 centered around animation generation with a focus on inverse kinematics and mass-spring systems:
 1. Inverse Kinematics Algorithm for realistic motion planning.
 2. Mass-Spring System Algorithm for simulating deformable objects. Explicit&Implicit Euler methods, and Fast simulation of Mass-spring systems(Liu et al. 2013) were inplemented.
 
-![lab5](lab5)
+![lab5.png](lab5)
 Lab 5 concluded with visualization tasks, covering parallel coordinates for multidimensional data and the LIC algorithm for 2D flow field visualization:
