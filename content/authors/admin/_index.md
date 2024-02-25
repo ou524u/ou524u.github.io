@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I'm a 3rd-year undergraduate in School of EECS, Peking University. I love physics and music.
+I'm a 3rd-year undergraduate in School of EECS, Peking University. I love physics and music. I'm an active language learner, fluent in Chinese, English and Japanese, also a beginner in German and Korean.
 {style="text-align: justify;"}
