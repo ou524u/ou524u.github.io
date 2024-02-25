@@ -1,7 +1,6 @@
 ---
 title: My Caffe-like framework
-summary: Utilizing cuda, pybind11, cmake and python to inplement kernels and autodiff capabilities for AlexNet. 
-A project of pku-course "Programming in Artificial Intelligence".
+summary: Utilizing cuda, pybind11, cmake and python to inplement kernels and autodiff capabilities for AlexNet. A project of pku-course "Programming in Artificial Intelligence".
 
 tags:
   - Course
