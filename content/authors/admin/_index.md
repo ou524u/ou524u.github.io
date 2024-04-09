@@ -28,7 +28,7 @@ bio: My research interests include 3d vision, 3d-human-motion and physics-based 
 # Interests to show in About widget
 interests:
   - physics-based simulation
-  - 3d vision
+  - 3d human
   - music
 
 # Education to show in About widget
