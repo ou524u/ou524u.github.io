@@ -113,4 +113,8 @@ highlight_name: true
 ---
 
 I'm a 3rd-year undergraduate in School of EECS, Peking University. I love physics and music. I'm an active language learner, fluent in Chinese, English and Japanese, also a beginner in German and Korean.
+
+Neural rendering like NeRF and 3DGS make complex assets implicit, saving us the trouble of model build-up. Neural simulation holds the potential to be successful, already usable in fluids, and maybe oneday human body. With these, isn't it possible to build everything ready for a vtuber at home,  starting from zero? That would be cool.
+
+Will neural rendering and neural simulation bring a revolution to CG?
 {style="text-align: justify;"}
