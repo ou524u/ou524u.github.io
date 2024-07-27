@@ -14,11 +14,14 @@ I aim to create fully virtual Vtubers, with language, voice, avatar, and interac
 - **Nerual CG:** Nerual rendering & nerual simulation. 
 - **3D Vision:** Digital human, character animation.
 
-Neural rendering 
+Neural revolution within CG pipeline rapidly advanced in nerual rendering, while nerual simulation remains underexplored. I'm particularly interested in incorporating neural techniques/representations into real-world scenarios, unlocking new potentials in 3D Vision tasks.
+
 ## News
 
 - **[Jul. 2024]** Started summer internship at [TUM Theurey Group](https://ge.in.tum.de/)!
 - **[Jun. 2024]** [One paper](https://motioncritic.github.io/) submitted to NeurIPS 2024.
+
+
 
 <!-- - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
