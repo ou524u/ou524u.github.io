@@ -2,7 +2,7 @@
 title: Haoru Wang
 position: Undergraduate Student
 affiliation: Peking University
-email: ou524u@stu.pku.edu.cn
+email: ou524u@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,9 +12,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=zLq7tRUAAAAJ
 cv_link: assets/files/cv_240727.pdf
 github_link: https://github.com/ou524u
+email_link: mailto:ou524u@stu.pku.edu.cn
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
