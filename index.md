@@ -12,7 +12,7 @@ I speak Chinese, English, Japanese, German and Korean.
 
 ## Research Interests
 
-- **Nerual CG:** Nerual rendering & nerual simulation. 
+- **Neural CG:** Nerual rendering & nerual simulation. 
 - **3D Vision:** Digital human & character animation.
 
 Neural revolution within CG pipeline rapidly advanced in nerual rendering, while nerual simulation remains underexplored. I'm particularly interested in incorporating neural techniques/representations into real-world scenarios, unlocking new potentials in 3D Vision tasks.
