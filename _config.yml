@@ -2,7 +2,7 @@
 title: Haoru Wang
 position: Undergraduate Student
 affiliation: Peking University
-email: ou524u@gmail.com
+# email: ou524u@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -18,6 +18,8 @@ github_link: https://github.com/ou524u
 email_link: mailto:ou524u@stu.pku.edu.cn
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
+
+# language: I speak Chinese, English, Japanese, German and Korean.
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
