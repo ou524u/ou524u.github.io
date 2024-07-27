@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 3rd-year undergraduate student at Peking University, China.
+I am a 3rd-year undergraduate student at Peking University, China. I major in Computer Science.
 
 I aim to create fully virtual Vtubers, with language, voice, avatar, and interaction combined in live-streams. Vtubers provided me with spiritual comfort and strength, and in AI people do seek the same. I aspire to enhance the creativity of Vtubers through 3DV techniques, while leveraging their potential as AI agents. I'm a fan of [Neuro-sama](https://virtualyoutuber.fandom.com/wiki/Neuro-sama).
 
