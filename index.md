@@ -19,7 +19,7 @@ Neural revolution within CG pipeline rapidly advanced in nerual rendering, while
 
 ## News
 
-- **[Jul. 2024]** Started my summer internship at [TUM Theurey Group](https://ge.in.tum.de/)!
+- **[Jul. 2024]** Started my summer internship at [TUM Thuerey Group](https://ge.in.tum.de/)!
 - **[Jun. 2024]** [One paper](https://motioncritic.github.io/) submitted to NeurIPS 2024.
 
 
