@@ -12,8 +12,8 @@ I speak Chinese, English, Japanese, German, and Korean.
 
 ## Research Interests
 
-- **Neural CG:** Nerual rendering & nerual simulation. 
-- **3D Vision:** Digital human & character animation.
+- **Neural Graphics:** Nerual rendering & simulation. 
+- **3D Human:** Digital avatar & character animation.
 
 Neural revolution within CG pipeline rapidly advanced in nerual rendering, while nerual simulation remains underexplored. I'm particularly interested in incorporating neural techniques/representations into real-world scenarios, unlocking new potentials in 3D Vision tasks.
 
@@ -21,7 +21,6 @@ Neural revolution within CG pipeline rapidly advanced in nerual rendering, while
 
 - **[Jul. 2024]** Started my summer internship at [TUM Thuerey Group](https://ge.in.tum.de/)!
 - **[Jun. 2024]** [One paper](https://motioncritic.github.io/) submitted to NeurIPS 2024.
-
 
 
 <!-- - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
