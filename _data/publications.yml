@@ -1,7 +1,7 @@
 main:
 
   - title: Aligning Human Motion Generation with Human Perceptions
-    authors: Haoru Wang, Wentao Zhu, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang
+    authors: <strong>Haoru Wang*</strong>, Wentao Zhu*, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang
     conference_short: preprint
     conference: arXiv preprint
     page: https://motioncritic.github.io/
