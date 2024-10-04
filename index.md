@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th-year undergraduate at Peking University, majoring in Information and Computing Science. I will soon begin my PhD studies, co-advised by [Prof. Baoquan Chen](https://baoquanchen.info/) from [VCL Lab](https://vcl.pku.edu.cn/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao) from [Shanghai AI Lab](https://www.shlab.org.cn/). I am grateful to have been introduced to academic research by [Dr. Wentao Zhu](https://wentao.live/about.html), and guided by [Prof. Mengyu Chu](https://rachelcmy.github.io/).
+I am a 4th-year undergraduate at Peking University, majoring in Information and Computing Science. I will soon begin my PhD studies, co-advised by [Prof. Baoquan Chen](https://baoquanchen.info/) from [VCL Lab](https://vcl.pku.edu.cn/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao) from [Shanghai AI Lab](https://www.shlab.org.cn/). I am grateful to have been introduced to academic research by [Dr. Wentao Zhu](https://wentao.live/about.html), and guided by [Prof. Mengyu Chu](https://rachelcmy.github.io/). 
 
 I aim to create fully virtual Vtubers, with language, voice, avatar, and interaction combined in live-streams. Vtubers provided me with spiritual comfort and strength, and in AI people do seek the same. I aspire to enhance the creativity of Vtubers through 3DV techniques, while leveraging their potential as AI agents. I'm a fan of [Neuro-sama](https://virtualyoutuber.fandom.com/wiki/Neuro-sama).
 
