@@ -1,15 +1,37 @@
 main:
 
+  - title: "The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge"
+    authors: <strong>Haoru Wang*</strong>, Kai Ye*, Yangyan Li, Wenzheng Chen, Baoquan Chen
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    page: https://pku-vcl-geometry.github.io/Less3Depend/
+    pdf: https://arxiv.org/pdf/2506.09885
+    code: https://github.com/ou524u/Less3Depend
+    image: ./assets/img/teaser_less3depend.png
+
+    
   - title: Aligning Human Motion Generation with Human Perceptions
     authors: <strong>Haoru Wang*</strong>, Wentao Zhu*, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang
-    conference_short: preprint
-    conference: arXiv preprint
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     page: https://motioncritic.github.io/
     pdf: https://arxiv.org/pdf/2407.02272
     code: https://github.com/ou524u/MotionCritic
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_motioncritic.png
     # notes: Early Accept
+
+# @misc{wang2025less3depend,
+#     title={The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge}, 
+#     author={Haoru Wang and Kai Ye and Yangyan Li and Wenzheng Chen and Baoquan Chen},
+#     year={2025},
+#     eprint={2506.09885},
+#     archivePrefix={arXiv},
+#     primaryClass={cs.CV},
+#     url={https://arxiv.org/abs/2506.09885}, 
+# }
+
+
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
