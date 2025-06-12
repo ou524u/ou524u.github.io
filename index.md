@@ -17,7 +17,7 @@ I explore 3D representations for virtual worlds. I believe spatial intelligence 
 ## 📰 News
 - **[Jun. 2025]** 🚀 Our new work, [Less3Depend](https://pku-vcl-geometry.github.io/Less3Depend/) explores how scene reconstruction scale-up with less 3D knowledge.
 <!-- - **[Dec. 2024]**  Started internship at Apple Inc. -->
-- **[Sep. 2024]** 🎉 [MotionCritic](https://motioncritic.github.io/) is accepted to ICLR 2025. Examine motion quality, and keep human perceptions aligned!
+- **[Sep. 2024]** 🎉 [MotionCritic](https://motioncritic.github.io/) is accepted to ICLR 2025. Examine motion quality aligned with human perceptions!
 - **[Jul. 2024]** 🌟 Started internship at [TUM-PBS](https://ge.in.tum.de/).
 
 
