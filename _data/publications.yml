@@ -15,6 +15,7 @@ main:
     conference: arXiv preprint, 2025.
     page: https://gomenei.github.io/GenEISP/
     pdf: https://arxiv.org/abs/2506.21349v1
+    code: https://github.com/gomenei/GenEISP
     image: ./assets/img/teaser_eisp.png
 
     
