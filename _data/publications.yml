@@ -9,6 +9,14 @@ main:
     code: https://github.com/ou524u/Less3Depend
     image: ./assets/img/teaser_less3depend.png
 
+  - title: "Generalizable Neural Electromagnetic Inverse Scattering"
+    authors: Yizhe Cheng*, Chunxun Tian*, <strong>Haoru Wang</strong>, Wentao Zhu, Xiaoxuan Ma, Yizhou Wang
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    page: https://gomenei.github.io/GenEISP/
+    pdf: https://arxiv.org/abs/2506.21349v1
+    image: ./assets/img/teaser_eisp.png
+
     
   - title: Aligning Human Motion Generation with Human Perceptions
     authors: <strong>Haoru Wang*</strong>, Wentao Zhu*, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang
