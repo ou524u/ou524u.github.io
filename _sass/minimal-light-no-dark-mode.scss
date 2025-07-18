@@ -516,3 +516,11 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+// 添加日期等宽显示的样式
+.date-mono {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-size: 0.85em; // 稍微缩小字体大小以匹配周围文字
+}
