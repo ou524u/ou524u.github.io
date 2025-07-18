@@ -16,7 +16,7 @@ I explore 3D representations for virtual worlds.💫 I believe spatial intellige
 
 ## 📰 News
 - <span class="date-mono">**[Jun. 2025]** 🚀</span> Checkout our new work, [Less3Depend](https://pku-vcl-geometry.github.io/Less3Depend/). Explore how scene reconstruction scale-up with less known and more learned!
-- <span class="date-mono">**[Jun. 2025]** ⚡️</span> Checkout our new work, [GenEISP](https://gomenei.github.io/GenEISP/).
+- <span class="date-mono">**[Jun. 2025]** 💡</span> Checkout our new work, [GenEISP](https://gomenei.github.io/GenEISP/).
 - <span class="date-mono">**[Jan. 2025]** 🎉</span> [MotionCritic](https://motioncritic.github.io/) is accepted to ICLR 2025. Examine motion quality aligned with human perceptions!
 - <span class="date-mono">**[Dec. 2024]** 🍎</span> Started internship at [Apple AIML](https://www.apple.com/).
 - <span class="date-mono">**[Sep. 2024]** ✈️</span> Back at PKU after a wonderful summer in Germany!
