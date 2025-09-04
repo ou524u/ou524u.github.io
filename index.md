@@ -10,7 +10,7 @@ I explore 3D representations for virtual worlds.💫 I believe spatial intellige
 
 ## Research Interests
 
-- **Neural Graphics:** 🎨 Neural rendering & reconstruction. 
+- **Neural Graphics:** 🎨 Neural rendering, reconstruction & generation. 
 - **Physics:** 🔬 Simulation & inverse problems.
 
 
