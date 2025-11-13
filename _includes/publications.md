@@ -1,9 +1,17 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+{% assign pub_sections = "preprints,publications" | split: "," %}
+{% for section_key in pub_sections %}
+  {% assign entries = site.data.publications[section_key] %}
+  {% if entries %}
+    {% if section_key == "publications" %}
+<h2 id="publications" style="margin: 25px 0px -15px;">Publications</h2>
+    {% elsif section_key == "preprints" %}
+<h2 id="preprints" style="margin: 2px 0px -15px;">Preprints</h2>
+    {% endif %}
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in entries %}
 
 <li>
 <div class="pub-row">
@@ -50,4 +58,6 @@
 
 </ol>
 </div>
+  {% endif %}
+{% endfor %}
 

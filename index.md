@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year undergraduate at Peking University, major in Information and Computing Science. I will soon begin my PhD studies, co-advised by [Prof. Baoquan Chen](https://baoquanchen.info/) from [VCL Lab](https://vcl.pku.edu.cn/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao) from [Shanghai AI Lab](https://www.shlab.org.cn/). I am grateful to have been introduced to research by [Dr. Wentao Zhu](https://wentao.live/about.html), and guided by [Prof. Mengyu Chu](https://rachelcmy.github.io/). 
+I am a first year PhD student at Peking University, major in Computer Graphics and Artifical Intelligence. I am co-advised by [Prof. Baoquan Chen](https://baoquanchen.info/) from [VCL Lab](https://vcl.pku.edu.cn/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao) from [Shanghai AI Lab](https://www.shlab.org.cn/). I am grateful to have been introduced to research by [Dr. Wentao Zhu](https://wentao.live/about.html), and guided by [Prof. Mengyu Chu](https://rachelcmy.github.io/). 
 
 I explore 3D representations for virtual worlds.💫 I believe spatial intelligence is self-supervised.✨ I speak Chinese, English, Japanese, German, and Korean. 🌍
 

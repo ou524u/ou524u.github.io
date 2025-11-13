@@ -1,13 +1,4 @@
-main:
-
-  - title: "Learning Deformable Body Interactions With Adaptive Spatial Tokenization"
-    authors: Hao Wang*, Yu Liu*, Daniel Biggs, <strong>Haoru Wang</strong>, Jiandong Yu, Ping Huang
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
-    page: https://arxiv.org/abs/2507.13707
-    pdf: https://arxiv.org/pdf/2507.13707
-    image: ./assets/img/teaser_ast.png
-    notes: Work done during internship at Apple
+preprints:
 
   - title: "The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge"
     authors: <strong>Haoru Wang*</strong>, Kai Ye*, Yangyan Li, Wenzheng Chen, Baoquan Chen
@@ -17,19 +8,28 @@ main:
     pdf: https://arxiv.org/pdf/2506.09885
     code: https://github.com/ou524u/Less3Depend
     image: ./assets/img/teaser_less3depend.png
-    # notes: Work done during internship at Apple
 
   - title: "Generalizable Neural Electromagnetic Inverse Scattering"
     authors: Yizhe Cheng*, Chunxun Tian*, <strong>Haoru Wang</strong>, Wentao Zhu, Xiaoxuan Ma, Yizhou Wang
     conference_short: arXiv
     conference: arXiv preprint, 2025.
-    page: https://gomenei.github.io/GenEISP/
+    page: https://github.com/gomenei/GenEISP
     pdf: https://arxiv.org/abs/2506.21349v1
     code: https://github.com/gomenei/GenEISP
     image: ./assets/img/teaser_eisp.png
 
-    
-  - title: Aligning Human Motion Generation with Human Perceptions
+publications:
+
+  - title: "Learning Deformable Body Interactions With Adaptive Spatial Tokenization"
+    authors: Hao Wang*, Yu Liu*, Daniel Biggs, <strong>Haoru Wang</strong>, Jiandong Yu, Ping Huang
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2025.
+    page: https://openreview.net/forum?id=qBOEHzkr1P
+    pdf: https://openreview.net/pdf?id=qBOEHzkr1P
+    image: ./assets/img/teaser_ast.png
+    notes: Work done during internship at Apple
+
+  - title: "Aligning Human Motion Generation with Human Perceptions"
     authors: <strong>Haoru Wang*</strong>, Wentao Zhu*, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
@@ -37,28 +37,3 @@ main:
     pdf: https://arxiv.org/pdf/2407.02272
     code: https://github.com/ou524u/MotionCritic
     image: ./assets/img/teaser_motioncritic.png
-    # notes: Early Accept
-
-# @misc{wang2025less3depend,
-#     title={The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge}, 
-#     author={Haoru Wang and Kai Ye and Yangyan Li and Wenzheng Chen and Baoquan Chen},
-#     year={2025},
-#     eprint={2506.09885},
-#     archivePrefix={arXiv},
-#     primaryClass={cs.CV},
-#     url={https://arxiv.org/abs/2506.09885}, 
-# }
-
-
-
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
