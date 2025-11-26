@@ -35,6 +35,6 @@ publications:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     page: https://motioncritic.github.io/
-    pdf: https://proceedings.iclr.cc/paper_files/paper/2025/file/c129741a2451e5fefe447591e39de30e-Paper-Conference.pdf
+    pdf: https://openreview.net/pdf?id=QOHgjY5KDp
     code: https://github.com/ou524u/MotionCritic
     image: ./assets/img/teaser_motioncritic.png
