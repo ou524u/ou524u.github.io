@@ -41,6 +41,9 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
+      {% if link.chiikawa %} 
+      <a href="{{ link.chiikawa }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Chiikawa</a>
+      {% endif %}
       {% if link.notes %} 
       <br><span style="font-size: 13px; color: #666; font-style: italic;">{{ link.notes }}</span>
       {% endif %}
