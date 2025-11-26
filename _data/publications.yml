@@ -24,7 +24,7 @@ publications:
   - title: "Learning Deformable Body Interactions With Adaptive Spatial Tokenization"
     authors: Hao Wang*, Yu Liu*, Daniel Biggs, <strong>Haoru Wang</strong>, Jiandong Yu, Ping Huang
     conference_short: TMLR
-    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2025.
+    conference: <span style="font-weight:400;">NeurIPS AI4Science Workshop, 2025</span><br> Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2025.
     page: https://openreview.net/forum?id=qBOEHzkr1P
     pdf: https://openreview.net/pdf?id=qBOEHzkr1P
     image: ./assets/img/teaser_ast.png
@@ -35,6 +35,6 @@ publications:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     page: https://motioncritic.github.io/
-    pdf: https://arxiv.org/pdf/2407.02272
+    pdf: https://proceedings.iclr.cc/paper_files/paper/2025/file/c129741a2451e5fefe447591e39de30e-Paper-Conference.pdf
     code: https://github.com/ou524u/MotionCritic
     image: ./assets/img/teaser_motioncritic.png
